@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333576442085",
+    "firebase_url": "https://cambulance-5d5d9.firebaseio.com",
+    "project_id": "cambulance-5d5d9",
+    "storage_bucket": "cambulance-5d5d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333576442085:android:094352d1a8cc9630",
+        "android_client_info": {
+          "package_name": "com.example.admin1.cabulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333576442085-qm59l75n1be8gdcg2er6nid697gpphh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin1.cabulance",
+            "certificate_hash": "9fbef5d59772d0876e7e468b81f125d22c2c495c"
+          }
+        },
+        {
+          "client_id": "333576442085-vi9reoa4434cgh1fhihvtlftu6jn2dcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VKI1k0ygPIsSQMBc7uaLUPIoB86-GuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333576442085-vi9reoa4434cgh1fhihvtlftu6jn2dcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
